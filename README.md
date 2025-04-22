@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/robsonsnt/robsonsnt/output/snake.svg" alt="Snake animation" />
+
 <!--
 **robsonsnt/robsonsnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
